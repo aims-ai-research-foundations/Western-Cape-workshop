@@ -36,11 +36,12 @@ One folder per session on the timetable, in the rough order of the week:
 
 Each session's slide deck is committed **inside its own folder** once frozen on Drive. The SA Launch, Workshop Overview and Closing Remarks are Drive-managed and have no folder, as do structural items (breaks, lunch) — see the schedule below.
 
-## 🧪 The Course 2 lab, one click away
+## 🧪 The Course Labs, one click away
 
-The Course 2 lab opens directly in Google Colab. It needs no setup and no GPU; the other labs land later:
+The Course 2 and Course 3 labs open directly in Google Colab. They need no setup and no GPU; the other labs land later:
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Western-Cape-workshop/blob/main/course-labs/day1/day1-course2-student.ipynb) **Day 1 · Course 2 — Small Embeddings and Similarity**
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Western-Cape-workshop/blob/main/course-labs/day2/day2-course3-student.ipynb) **Day 2 · Course 3 — Neural Network Training & Overfitting**
 
 See [`course-labs/`](course-labs/) for the full lab-by-day table.
 
