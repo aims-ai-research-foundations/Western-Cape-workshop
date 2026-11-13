@@ -38,12 +38,13 @@ Each session's slide deck is committed **inside its own folder** once frozen on 
 
 ## 🧪 The Course Labs, one click away
 
-The Course 2 to Course 5 labs open directly in Google Colab. Courses 2 to 4 need no setup and no GPU, Course 5 needs a T4 GPU and a Hugging Face token, and the Course 7 lab lands later:
+All five Course Labs open directly in Google Colab. Courses 2 to 4 need no setup and no GPU; Courses 5 and 7 need a T4 GPU and a Hugging Face token:
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Western-Cape-workshop/blob/main/course-labs/day1/day1-course2-student.ipynb) **Day 1 · Course 2 — Small Embeddings and Similarity**
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Western-Cape-workshop/blob/main/course-labs/day2/day2-course3-student.ipynb) **Day 2 · Course 3 — Neural Network Training & Overfitting**
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Western-Cape-workshop/blob/main/course-labs/day3/day3-course4-student.ipynb) **Day 3 · Course 4 — A Transformer in 60 Minutes**
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Western-Cape-workshop/blob/main/course-labs/day4/day4-course5-practical.ipynb) **Day 4 · Course 5: Fine-Tune Your Model**
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Western-Cape-workshop/blob/main/course-labs/day5/day5-course7-practical.ipynb) **Day 5 · Course 7: Accelerate Your Model**
 
 See [`course-labs/`](course-labs/) for the full lab-by-day table.
 
